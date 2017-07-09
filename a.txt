@@ -2,3 +2,4 @@ master add 01
 newdemo2 feature-AA add 01
 newdemo3 feature-A add 01
 newdemo2 feature-AA add 02
+newdemo2 master add 01
